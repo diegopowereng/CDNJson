@@ -1,0 +1,3937 @@
+{
+  "group1": [
+    {
+      "term": "abrupt",
+      "type": "adjective",
+      "definition": "sudden and unexpected",
+      "example": "The meeting ended on an abrupt note when the manager stormed out of the room.",
+      "synonyms": [
+        "sudden",
+        "unexpected",
+        "hasty",
+        "precipitate",
+        "rapid"
+      ]
+    },
+    {
+      "term": "abrupt",
+      "type": "adverb",
+      "definition": "in a sudden and unexpected manner",
+      "example": "She stopped talking abruptly when she saw him approaching.",
+      "synonyms": [
+        "suddenly",
+        "unexpectedly",
+        "abruptly",
+        "brusquely",
+        "precipitously"
+      ]
+    },
+    {
+      "term": "awful",
+      "type": "adjective",
+      "definition": "extremely bad or unpleasant",
+      "example": "The food at that restaurant was awful.",
+      "synonyms": [
+        "terrible",
+        "dreadful",
+        "horrible",
+        "atrocious",
+        "abysmal"
+      ]
+    },
+    {
+      "term": "awful",
+      "type": "adverb",
+      "definition": "used to emphasize how bad something is",
+      "example": "The weather was awfully hot today.",
+      "synonyms": [
+        "terribly",
+        "dreadfully",
+        "horribly",
+        "atrociously",
+        "abysmally"
+      ]
+    },
+    {
+      "term": "clever",
+      "type": "adjective",
+      "definition": "showing intelligence or skill in a particular way",
+      "example": "She came up with a clever solution to the problem.",
+      "synonyms": [
+        "smart",
+        "intelligent",
+        "shrewd",
+        "astute",
+        "ingenious"
+      ]
+    },
+    {
+      "term": "common",
+      "type": "noun",
+      "definition": "a shared characteristic or feature",
+      "example": "One common among all the students is their love for music.",
+      "synonyms": [
+        "shared",
+        "universal",
+        "mutual",
+        "collective",
+        "general"
+      ]
+    },
+    {
+      "term": "common",
+      "type": "adjective",
+      "definition": "occurring, found, or done often; prevalent",
+      "example": "It is common for people to feel nervous before a job interview.",
+      "synonyms": [
+        "widespread",
+        "usual",
+        "frequent",
+        "ordinary",
+        "typical"
+      ]
+    },
+    {
+      "term": "exotic",
+      "type": "adjective",
+      "definition": "originating in or characteristic of a distant foreign country; intriguing or unusual",
+      "example": "She wore an exotic necklace from India to the party.",
+      "synonyms": [
+        "foreign",
+        "alien",
+        "unfamiliar",
+        "unusual",
+        "intriguing"
+      ]
+    },
+    {
+      "term": "extraordinary",
+      "type": "adjective",
+      "definition": "very unusual or remarkable",
+      "example": "She has an extraordinary talent for painting.",
+      "synonyms": [
+        "exceptional",
+        "remarkable",
+        "outstanding",
+        "unique",
+        "extraordinary"
+      ]
+    },
+    {
+      "term": "proper",
+      "type": "noun",
+      "definition": "A specific name used for an individual person, place, or organization.",
+      "example": "She always writes her name using proper nouns.",
+      "synonyms": [
+        "specific",
+        "particular",
+        "correct",
+        "appropriate",
+        "accurate"
+      ]
+    },
+    {
+      "term": "proper",
+      "type": "adjective",
+      "definition": "Correct according to social or moral standards.",
+      "example": "He taught his children to have proper manners.",
+      "synonyms": [
+        "appropriate",
+        "decent",
+        "respectable",
+        "fitting",
+        "polite"
+      ]
+    },
+    {
+      "term": "regular",
+      "type": "noun",
+      "definition": "A person who regularly attends a particular place or event.",
+      "example": "He always goes to the gym on weekdays, he's a regular there.",
+      "synonyms": [
+        "frequent visitor",
+        "usual customer",
+        "habitual attendee",
+        "loyal patron",
+        "steady customer"
+      ]
+    },
+    {
+      "term": "regular",
+      "type": "adjective",
+      "definition": "Conforming to a standard or pattern; usual, typical, or normal.",
+      "example": "She is a regular customer at the coffee shop.",
+      "synonyms": [
+        "normal",
+        "standard",
+        "usual",
+        "consistent",
+        "ordinary"
+      ]
+    },
+    {
+      "term": "regular",
+      "type": "adjective",
+      "definition": "Occurring at fixed intervals; periodic.",
+      "example": "The team meets for regular training sessions twice a week.",
+      "synonyms": [
+        "periodic",
+        "routine",
+        "consistent",
+        "recurring",
+        "cyclical"
+      ]
+    },
+    {
+      "term": "smooth",
+      "type": "adjective",
+      "definition": "having a flat, even surface; free from roughness",
+      "example": "She ran her hand over the smooth surface of the table.",
+      "synonyms": [
+        "even",
+        "level",
+        "unblemished",
+        "slick",
+        "polished"
+      ]
+    },
+    {
+      "term": "smooth",
+      "type": "verb",
+      "definition": "make (an object or surface) smooth or level by rubbing it",
+      "example": "He used sandpaper to smooth the rough edges of the wood.",
+      "synonyms": [
+        "flatten",
+        "polish",
+        "buff",
+        "hone",
+        "refine"
+      ]
+    },
+    {
+      "term": "solid",
+      "type": "adjective",
+      "definition": "firm and stable in shape; not liquid or fluid",
+      "example": "The table is made of solid oak wood.",
+      "synonyms": [
+        "firm",
+        "stable",
+        "hard",
+        "dense",
+        "compact"
+      ]
+    },
+    {
+      "term": "solid",
+      "type": "noun",
+      "definition": "a substance or object that is firm and stable in shape; not liquid or fluid",
+      "example": "Ice is a solid at room temperature.",
+      "synonyms": [
+        "substance",
+        "object",
+        "material",
+        "mass",
+        "piece"
+      ]
+    },
+    {
+      "term": "solid",
+      "type": "noun",
+      "definition": "a figure or object shaped like a cube or other geometrical solid",
+      "example": "The children learned about different geometric solids in class.",
+      "synonyms": [
+        "cube",
+        "cuboid",
+        "prism",
+        "pyramid",
+        "cylinder"
+      ]
+    },
+    {
+      "term": "solid",
+      "type": "adverb",
+      "definition": "in a firm or secure manner",
+      "example": "She held on to the railing solid.",
+      "synonyms": [
+        "firmly",
+        "securely",
+        "steadily",
+        "strongly",
+        "soundly"
+      ]
+    },
+    {
+      "term": "stiff",
+      "type": "adjective",
+      "definition": "Not easily bent or changed in shape; rigid.",
+      "example": "The board was too stiff to bend.",
+      "synonyms": [
+        "rigid",
+        "inflexible",
+        "unbending",
+        "hard",
+        "firm"
+      ]
+    },
+    {
+      "term": "stiff",
+      "type": "adjective",
+      "definition": "Lacking ease of movement; not flexible or agile.",
+      "example": "He walked with a stiff gait.",
+      "synonyms": [
+        "awkward",
+        "unbending",
+        "ungainly",
+        "inflexible",
+        "rigid"
+      ]
+    },
+    {
+      "term": "stiff",
+      "type": "verb",
+      "definition": "To make or become stiff.",
+      "example": "The new fabric stiffens when washed.",
+      "synonyms": [
+        "harden",
+        "solidify",
+        "strengthen",
+        "fortify",
+        "harden up"
+      ]
+    },
+    {
+      "term": "stiff",
+      "type": "noun",
+      "definition": "A dead body; a corpse.",
+      "example": "They found the stiff floating in the river.",
+      "synonyms": [
+        "corpse",
+        "cadaver",
+        "body",
+        "remains",
+        "deceased"
+      ]
+    },
+    {
+      "term": "tight",
+      "type": "adjective",
+      "definition": "closely fixed in place; not easily moved; fitting closely",
+      "example": "She wore a tight dress that showed off her figure.",
+      "synonyms": [
+        "secure",
+        "snug",
+        "close-fitting",
+        "constricted",
+        "compact"
+      ]
+    },
+    {
+      "term": "tight",
+      "type": "adverb",
+      "definition": "in a firm, secure, or close manner",
+      "example": "Hold on tight to the railing as you climb the stairs.",
+      "synonyms": [
+        "firmly",
+        "securely",
+        "closely",
+        "intensely",
+        "rigidly"
+      ]
+    },
+    {
+      "term": "tight",
+      "type": "noun",
+      "definition": "a secure or fast hold; a situation in which survival or success is difficult",
+      "example": "He has a tight grip on the handlebars of the bike.",
+      "synonyms": [
+        "grip",
+        "hold",
+        "clasp",
+        "struggle",
+        "challenge"
+      ]
+    },
+    {
+      "term": "utter",
+      "type": "verb",
+      "definition": "to express something aloud",
+      "example": "She uttered a heartfelt apology to her friend.",
+      "synonyms": [
+        "pronounce",
+        "voice",
+        "articulate",
+        "declare",
+        "exclaim"
+      ]
+    },
+    {
+      "term": "utter",
+      "type": "adjective",
+      "definition": "complete; total",
+      "example": "The project was an utter disaster.",
+      "synonyms": [
+        "complete",
+        "total",
+        "absolute",
+        "sheer",
+        "outright"
+      ]
+    },
+    {
+      "term": "weak",
+      "type": "adjective",
+      "definition": "lacking in physical strength or energy",
+      "example": "He felt weak after running a marathon.",
+      "synonyms": [
+        "frail",
+        "feeble",
+        "fragile",
+        "debilitated",
+        "powerless"
+      ]
+    },
+    {
+      "term": "weak",
+      "type": "adjective",
+      "definition": "not convincing or compelling",
+      "example": "The weak argument failed to persuade anyone.",
+      "synonyms": [
+        "unconvincing",
+        "feeble",
+        "flimsy",
+        "inadequate",
+        "lame"
+      ]
+    },
+    {
+      "term": "weak",
+      "type": "noun",
+      "definition": "a person who lacks physical strength",
+      "example": "She called for help to lift the heavy box since she was a weak.",
+      "synonyms": [
+        "feeble person",
+        "infirm person",
+        "frail person",
+        "ailing person",
+        "debilitated person"
+      ]
+    }
+  ],
+  "group2": [
+    {
+      "term": "absurd",
+      "type": "adjective",
+      "definition": "wildly unreasonable, illogical, or inappropriate",
+      "example": "The idea of pigs flying is absurd.",
+      "synonyms": [
+        "ridiculous",
+        "preposterous",
+        "outrageous",
+        "ludicrous",
+        "inconceivable"
+      ]
+    },
+    {
+      "term": "absurd",
+      "type": "noun",
+      "definition": "the quality or state of being ridiculous or wildly unreasonable",
+      "example": "The play was full of absurd and hilarious situations.",
+      "synonyms": [
+        "ridiculousness",
+        "nonsense",
+        "irrationality",
+        "folly",
+        "absurdity"
+      ]
+    },
+    {
+      "term": "chief",
+      "type": "noun",
+      "definition": "the leader or head of a group, organization, or tribe",
+      "example": "The chief of the tribe made important decisions for the community.",
+      "synonyms": [
+        "leader",
+        "head",
+        "commander",
+        "captain",
+        "boss"
+      ]
+    },
+    {
+      "term": "chief",
+      "type": "adjective",
+      "definition": "most important or prominent",
+      "example": "The chief reason for their success was teamwork.",
+      "synonyms": [
+        "main",
+        "primary",
+        "principal",
+        "leading",
+        "foremost"
+      ]
+    },
+    {
+      "term": "decent",
+      "type": "adjective",
+      "definition": "of an acceptable standard; satisfactory",
+      "example": "She did a decent job on the project.",
+      "synonyms": [
+        "acceptable",
+        "satisfactory",
+        "reasonable",
+        "adequate",
+        "tolerable"
+      ]
+    },
+    {
+      "term": "exact",
+      "type": "adjective",
+      "definition": "completely accurate and precise",
+      "example": "She gave an exact description of the suspect to the police.",
+      "synonyms": [
+        "precise",
+        "accurate",
+        "meticulous",
+        "correct",
+        "specific"
+      ]
+    },
+    {
+      "term": "exact",
+      "type": "verb",
+      "definition": "to demand and obtain by force or authority",
+      "example": "The authorities exacted a heavy fine from the company for violating regulations.",
+      "synonyms": [
+        "demand",
+        "require",
+        "command",
+        "extract",
+        "impose"
+      ]
+    },
+    {
+      "term": "partial",
+      "type": "adjective",
+      "definition": "Existing only in part; incomplete",
+      "example": "She only had a partial view of the stage from her seat.",
+      "synonyms": [
+        "incomplete",
+        "fragmentary",
+        "limited",
+        "fractional",
+        "unfinished"
+      ]
+    },
+    {
+      "term": "partial",
+      "type": "noun",
+      "definition": "A part or portion of something incomplete",
+      "example": "He read only a partial of the report before the meeting.",
+      "synonyms": [
+        "fraction",
+        "portion",
+        "piece",
+        "segment",
+        "part"
+      ]
+    },
+    {
+      "term": "private",
+      "type": "adjective",
+      "definition": "belonging to or for the use of one particular person or group of people only",
+      "example": "She has a private office where she can work without interruption.",
+      "synonyms": [
+        "confidential",
+        "personal",
+        "exclusive",
+        "secret",
+        "restricted"
+      ]
+    },
+    {
+      "term": "private",
+      "type": "noun",
+      "definition": "a soldier of the lowest rank, in the British army",
+      "example": "He started his military career as a private.",
+      "synonyms": [
+        "soldier",
+        "trooper",
+        "infantryman",
+        "grunt",
+        "enlisted soldier"
+      ]
+    },
+    {
+      "term": "robust",
+      "type": "adjective",
+      "definition": "strong and healthy; vigorous",
+      "example": "She maintains a robust attitude towards challenges.",
+      "synonyms": [
+        "strong",
+        "healthy",
+        "vigorous",
+        "sturdy",
+        "hearty"
+      ]
+    },
+    {
+      "term": "robust",
+      "type": "adjective",
+      "definition": "strongly formed or constructed",
+      "example": "The new software includes robust security features.",
+      "synonyms": [
+        "strong",
+        "durable",
+        "resilient",
+        "tough",
+        "solid"
+      ]
+    },
+    {
+      "term": "robust",
+      "type": "adjective",
+      "definition": "full-bodied and rich in flavor",
+      "example": "The robust coffee beans produced a delicious brew.",
+      "synonyms": [
+        "full-bodied",
+        "flavorful",
+        "rich",
+        "bold",
+        "intense"
+      ]
+    },
+    {
+      "term": "several",
+      "type": "adjective",
+      "definition": "more than two but not many",
+      "example": "There are several options to choose from.",
+      "synonyms": [
+        "multiple",
+        "various",
+        "numerous",
+        "many",
+        "a few"
+      ]
+    },
+    {
+      "term": "steep",
+      "type": "adjective",
+      "definition": "rising or falling sharply; almost straight up and down",
+      "example": "The mountain had steep cliffs on all sides.",
+      "synonyms": [
+        "sheer",
+        "precipitous",
+        "vertiginous",
+        "abrupt",
+        "sharp"
+      ]
+    },
+    {
+      "term": "steep",
+      "type": "verb",
+      "definition": "to soak in a liquid (usually hot) to soften, cleanse, or extract flavor",
+      "example": "She steeped the tea leaves in hot water for a few minutes.",
+      "synonyms": [
+        "soak",
+        "infuse",
+        "brew",
+        "sozzle",
+        "immerse"
+      ]
+    },
+    {
+      "term": "superb",
+      "type": "adjective",
+      "definition": "of excellent quality; very good",
+      "example": "The chef prepared a superb meal for the special occasion.",
+      "synonyms": [
+        "excellent",
+        "outstanding",
+        "exceptional",
+        "fantastic",
+        "splendid"
+      ]
+    },
+    {
+      "term": "terrible",
+      "type": "adjective",
+      "definition": "extremely bad or serious",
+      "example": "The movie received terrible reviews from critics.",
+      "synonyms": [
+        "awful",
+        "dreadful",
+        "horrible",
+        "atrocious",
+        "abysmal"
+      ]
+    },
+    {
+      "term": "thorough",
+      "type": "adjective",
+      "definition": "complete with regard to every detail; meticulous or careful",
+      "example": "He conducted a thorough investigation into the matter.",
+      "synonyms": [
+        "complete",
+        "comprehensive",
+        "meticulous",
+        "detailed",
+        "systematic"
+      ]
+    },
+    {
+      "term": "usual",
+      "type": "adjective",
+      "definition": "habitual, customary, or commonly occurring",
+      "example": "I followed my usual routine every morning.",
+      "synonyms": [
+        "typical",
+        "normal",
+        "common",
+        "standard",
+        "regular"
+      ]
+    },
+    {
+      "term": "vicious",
+      "type": "adjective",
+      "definition": "showing a deliberate intent to harm; cruel or violent",
+      "example": "The vicious dog growled at anyone who came near the fence.",
+      "synonyms": [
+        "cruel",
+        "savage",
+        "brutal",
+        "ferocious",
+        "barbaric"
+      ]
+    },
+    {
+      "term": "vicious",
+      "type": "adjective",
+      "definition": "of a defective or rudimentary type",
+      "example": "The plant had a vicious leaf that hindered its growth.",
+      "synonyms": [
+        "defective",
+        "imperfect",
+        "incomplete",
+        "rudimentary",
+        "faulty"
+      ]
+    }
+  ],
+  "group3": [
+    {
+      "term": "actual",
+      "type": "noun",
+      "definition": "existing in fact; real.",
+      "example": "The actual cost of the project was higher than expected.",
+      "synonyms": [
+        "real",
+        "true",
+        "genuine",
+        "authentic",
+        "factual"
+      ]
+    },
+    {
+      "term": "actual",
+      "type": "adjective",
+      "definition": "existing in fact; real.",
+      "example": "She finally met her actual idol in person.",
+      "synonyms": [
+        "real",
+        "true",
+        "genuine",
+        "authentic",
+        "factual"
+      ]
+    },
+    {
+      "term": "bare",
+      "type": "adjective",
+      "definition": "lacking clothing, covering, or adornment; naked",
+      "example": "The man was caught running bare in the street.",
+      "synonyms": [
+        "naked",
+        "uncovered",
+        "exposed",
+        "nude",
+        "stripped"
+      ]
+    },
+    {
+      "term": "bare",
+      "type": "verb",
+      "definition": "to uncover; to expose; to reveal",
+      "example": "She decided to bare her soul and share her deepest fears.",
+      "synonyms": [
+        "uncover",
+        "expose",
+        "reveal",
+        "disclose",
+        "divulge"
+      ]
+    },
+    {
+      "term": "bare",
+      "type": "adverb",
+      "definition": "completely; totally; merely",
+      "example": "She was left feeling bare and vulnerable after the betrayal.",
+      "synonyms": [
+        "completely",
+        "totally",
+        "merely",
+        "simply",
+        "only"
+      ]
+    },
+    {
+      "term": "crazy",
+      "type": "adjective",
+      "definition": "mentally deranged; insane",
+      "example": "She's acting crazy and needs help.",
+      "synonyms": [
+        "insane",
+        "mad",
+        "unbalanced",
+        "deranged",
+        "nuts"
+      ]
+    },
+    {
+      "term": "crazy",
+      "type": "adverb",
+      "definition": "in an insane or extremely foolish manner",
+      "example": "He was driving crazy fast down the highway.",
+      "synonyms": [
+        "insanely",
+        "wildly",
+        "frantically",
+        "recklessly",
+        "foolishly"
+      ]
+    },
+    {
+      "term": "damp",
+      "type": "noun",
+      "definition": "moisture in the air or on a surface",
+      "example": "The old house had a musty smell due to the damp in the basement.",
+      "synonyms": [
+        "moisture",
+        "wetness",
+        "humidity",
+        "dew",
+        "moisture"
+      ]
+    },
+    {
+      "term": "damp",
+      "type": "adjective",
+      "definition": "slightly wet or moist",
+      "example": "The damp cloth was left on the table to dry.",
+      "synonyms": [
+        "moist",
+        "wet",
+        "humid",
+        "clammy",
+        "moistened"
+      ]
+    },
+    {
+      "term": "damp",
+      "type": "verb",
+      "definition": "make slightly wet or moist",
+      "example": "She used a spray bottle to dampen the fabric before ironing.",
+      "synonyms": [
+        "moisten",
+        "wet",
+        "dampen",
+        "sprinkle",
+        "spritz"
+      ]
+    },
+    {
+      "term": "fantastic",
+      "type": "adjective",
+      "definition": "extremely good or attractive",
+      "example": "The movie had fantastic special effects.",
+      "synonyms": [
+        "amazing",
+        "incredible",
+        "wonderful",
+        "great",
+        "awesome"
+      ]
+    },
+    {
+      "term": "fierce",
+      "type": "adjective",
+      "definition": "having or displaying an intense or ferocious aggressiveness",
+      "example": "The fierce lion roared loudly in the jungle.",
+      "synonyms": [
+        "ferocious",
+        "intense",
+        "aggressive",
+        "violent",
+        "savage"
+      ]
+    },
+    {
+      "term": "huge",
+      "type": "adjective",
+      "definition": "extremely large in size, amount, or degree",
+      "example": "The huge elephant walked through the jungle.",
+      "synonyms": [
+        "enormous",
+        "massive",
+        "gigantic",
+        "immense",
+        "colossal"
+      ]
+    },
+    {
+      "term": "rough",
+      "type": "adjective",
+      "definition": "having an uneven or irregular surface; not smooth or level",
+      "example": "The rough surface of the wall made it difficult to paint.",
+      "synonyms": [
+        "uneven",
+        "coarse",
+        "jagged",
+        "bumpy",
+        "rugged"
+      ]
+    },
+    {
+      "term": "rough",
+      "type": "adjective",
+      "definition": "not gentle or kind in manner",
+      "example": "He was known for his rough treatment of employees.",
+      "synonyms": [
+        "harsh",
+        "unpleasant",
+        "abrasive",
+        "tough",
+        "rude"
+      ]
+    },
+    {
+      "term": "rough",
+      "type": "noun",
+      "definition": "an area of disturbed or breaking water, typically caused by waves or currents",
+      "example": "The boat struggled to navigate through the rough of the ocean.",
+      "synonyms": [
+        "choppy water",
+        "turbulence",
+        "swell",
+        "breakers",
+        "surf"
+      ]
+    },
+    {
+      "term": "rough",
+      "type": "noun",
+      "definition": "rugged or uneven ground or terrain",
+      "example": "The hikers faced a challenging climb over the rough of the mountain.",
+      "synonyms": [
+        "rugged terrain",
+        "wilderness",
+        "uplands",
+        "barrens",
+        "badlands"
+      ]
+    },
+    {
+      "term": "rough",
+      "type": "verb",
+      "definition": "to treat or handle someone or something in a rough or aggressive manner",
+      "example": "The suspect claimed the police roughed him up during the arrest.",
+      "synonyms": [
+        "manhandle",
+        "jostle",
+        "mishandle",
+        "handle roughly",
+        "mistreat"
+      ]
+    },
+    {
+      "term": "serious",
+      "type": "adjective",
+      "definition": "significant or worrying in a way that cannot be ignored",
+      "example": "The patient has a serious illness that requires immediate attention.",
+      "synonyms": [
+        "grave",
+        "severe",
+        "critical",
+        "important",
+        "urgent"
+      ]
+    },
+    {
+      "term": "serious",
+      "type": "noun",
+      "definition": "a serious-minded or earnest person",
+      "example": "She is a serious who always focuses on her work.",
+      "synonyms": [
+        "earnest person",
+        "focused individual",
+        "grave person",
+        "determined individual",
+        "committed person"
+      ]
+    },
+    {
+      "term": "strange",
+      "type": "adjective",
+      "definition": "unusual or surprising in a way that is difficult to understand",
+      "example": "She had a strange feeling that she was being watched.",
+      "synonyms": [
+        "odd",
+        "weird",
+        "peculiar",
+        "bizarre",
+        "unusual"
+      ]
+    },
+    {
+      "term": "supreme",
+      "type": "adjective",
+      "definition": "highest in rank or authority",
+      "example": "She is the supreme leader of the organization.",
+      "synonyms": [
+        "highest",
+        "chief",
+        "premier",
+        "ultimate",
+        "paramount"
+      ]
+    },
+    {
+      "term": "supreme",
+      "type": "noun",
+      "definition": "a judge of the highest court in a country or state",
+      "example": "The Supreme was known for delivering fair and just verdicts.",
+      "synonyms": [
+        "judge",
+        "justice",
+        "magistrate",
+        "arbiter",
+        "adjudicator"
+      ]
+    },
+    {
+      "term": "typical",
+      "type": "adjective",
+      "definition": "having the distinctive qualities of a particular type of person or thing",
+      "example": "The typical student in this school is hardworking and ambitious.",
+      "synonyms": [
+        "usual",
+        "average",
+        "normal",
+        "standard",
+        "common"
+      ]
+    },
+    {
+      "term": "urgent",
+      "type": "adjective",
+      "definition": "requiring immediate action or attention",
+      "example": "The patient's condition is urgent and needs to be addressed right away.",
+      "synonyms": [
+        "critical",
+        "pressing",
+        "imperative",
+        "crucial",
+        "important"
+      ]
+    },
+    {
+      "term": "urgent",
+      "type": "noun",
+      "definition": "a situation calling for immediate action or attention",
+      "example": "The manager addressed the urgent by prioritizing tasks and delegating responsibilities.",
+      "synonyms": [
+        "emergency",
+        "crisis",
+        "pressing issue",
+        "critical situation",
+        "time-sensitive matter"
+      ]
+    },
+    {
+      "term": "verbal",
+      "type": "adjective",
+      "definition": "relating to words or the act of speaking",
+      "example": "She gave a verbal warning to the students for talking during the test.",
+      "synonyms": [
+        "spoken",
+        "oral",
+        "expressed",
+        "stated",
+        "voiced"
+      ]
+    },
+    {
+      "term": "verbal",
+      "type": "noun",
+      "definition": "a word that is derived from a verb and has the function of a verb but lacks the full range of inflections that a true verb has",
+      "example": "In the sentence 'I must say,' the word 'say' is a verbal.",
+      "synonyms": [
+        "verb form",
+        "verboid",
+        "deverbal noun",
+        "infinitive",
+        "gerund"
+      ]
+    }
+  ],
+  "group4": [
+    {
+      "term": "authentic",
+      "type": "adjective",
+      "definition": "of undisputed origin; genuine",
+      "example": "The painting was confirmed to be an authentic work of the famous artist.",
+      "synonyms": [
+        "genuine",
+        "real",
+        "true",
+        "legitimate",
+        "original"
+      ]
+    },
+    {
+      "term": "eligible",
+      "type": "adjective",
+      "definition": "having the right to do or obtain something; satisfying the necessary conditions",
+      "example": "To be eligible for the scholarship, students must maintain a high GPA.",
+      "synonyms": [
+        "qualified",
+        "entitled",
+        "fit",
+        "appropriate",
+        "worthy"
+      ]
+    },
+    {
+      "term": "eligible",
+      "type": "noun",
+      "definition": "a person who is eligible for something",
+      "example": "Eligibles for the program will be contacted for an interview.",
+      "synonyms": [
+        "candidate",
+        "applicant",
+        "contender",
+        "nominee",
+        "aspirant"
+      ]
+    },
+    {
+      "term": "extreme",
+      "type": "noun",
+      "definition": "either of the highest or lowest ends or parts of something",
+      "example": "The temperature reached an extreme of 110 degrees Fahrenheit.",
+      "synonyms": [
+        "utmost",
+        "peak",
+        "limit",
+        "maximum",
+        "minimum"
+      ]
+    },
+    {
+      "term": "extreme",
+      "type": "adjective",
+      "definition": "of a high or the highest degree or intensity",
+      "example": "The storm caused extreme damage to the coastal area.",
+      "synonyms": [
+        "intense",
+        "severe",
+        "drastic",
+        "excessive",
+        "extensive"
+      ]
+    },
+    {
+      "term": "fancy",
+      "type": "noun",
+      "definition": "a feeling of liking or attraction towards something",
+      "example": "He had a fancy for vintage cars.",
+      "synonyms": [
+        "liking",
+        "preference",
+        "attraction",
+        "fondness",
+        "penchant"
+      ]
+    },
+    {
+      "term": "fancy",
+      "type": "noun",
+      "definition": "an elaborate decorative design",
+      "example": "The room was adorned with intricate fancies.",
+      "synonyms": [
+        "ornament",
+        "decoration",
+        "embellishment",
+        "design",
+        "detail"
+      ]
+    },
+    {
+      "term": "fancy",
+      "type": "adjective",
+      "definition": "elaborate in structure or decoration",
+      "example": "She wore a fancy dress to the ball.",
+      "synonyms": [
+        "ornate",
+        "elaborate",
+        "fanciful",
+        "decorative",
+        "embellished"
+      ]
+    },
+    {
+      "term": "fancy",
+      "type": "adjective",
+      "definition": "imagination or creativity",
+      "example": "The story was full of fancy characters.",
+      "synonyms": [
+        "imaginative",
+        "creative",
+        "fanciful",
+        "whimsical",
+        "inventive"
+      ]
+    },
+    {
+      "term": "fancy",
+      "type": "verb",
+      "definition": "to have a strong liking or desire for something",
+      "example": "I fancy a cup of coffee right now.",
+      "synonyms": [
+        "like",
+        "desire",
+        "crave",
+        "prefer",
+        "hanker for"
+      ]
+    },
+    {
+      "term": "fragile",
+      "type": "adjective",
+      "definition": "easily broken or damaged",
+      "example": "Handle the glass vase with care as it is very fragile.",
+      "synonyms": [
+        "delicate",
+        "brittle",
+        "frail",
+        "breakable",
+        "vulnerable"
+      ]
+    },
+    {
+      "term": "narrow",
+      "type": "adjective",
+      "definition": "of small width in relation to length; not wide",
+      "example": "The narrow path through the forest was barely wide enough for two people to walk side by side.",
+      "synonyms": [
+        "thin",
+        "slender",
+        "tight",
+        "cramped",
+        "confined"
+      ]
+    },
+    {
+      "term": "narrow",
+      "type": "verb",
+      "definition": "to make or become narrower; to decrease in width",
+      "example": "She decided to narrow the road by removing one of the lanes to create space for a bike lane.",
+      "synonyms": [
+        "reduce",
+        "shrink",
+        "contract",
+        "tighten",
+        "condense"
+      ]
+    },
+    {
+      "term": "opposite",
+      "type": "noun",
+      "definition": "a person or thing that is totally different from or the reverse of someone or something else",
+      "example": "She always does the opposite of what I ask.",
+      "synonyms": [
+        "contrary",
+        "reverse",
+        "antithesis",
+        "counterpart",
+        "contradiction"
+      ]
+    },
+    {
+      "term": "opposite",
+      "type": "adjective",
+      "definition": "having a reverse or mutually opposed direction or orientation",
+      "example": "The two buildings are on opposite sides of the street.",
+      "synonyms": [
+        "contrary",
+        "reverse",
+        "contrasting",
+        "opposed",
+        "antithetical"
+      ]
+    },
+    {
+      "term": "remote",
+      "type": "noun",
+      "definition": "A device that can be used to control a television, DVD player, or other electronic equipment from a distance.",
+      "example": "I lost the remote, so I had to get up to change the channel.",
+      "synonyms": [
+        "controller",
+        "clicker",
+        "zapper",
+        "changer",
+        "commander"
+      ]
+    },
+    {
+      "term": "remote",
+      "type": "adjective",
+      "definition": "Located far away; distant.",
+      "example": "The remote island was untouched by tourists.",
+      "synonyms": [
+        "distant",
+        "far-off",
+        "isolated",
+        "outlying",
+        "secluded"
+      ]
+    },
+    {
+      "term": "remote",
+      "type": "verb",
+      "definition": "To control or operate a device from a distance.",
+      "example": "He remoted the drone to capture aerial footage.",
+      "synonyms": [
+        "operate remotely",
+        "control from a distance",
+        "manipulate from afar",
+        "handle from a distance",
+        "govern from a distance"
+      ]
+    },
+    {
+      "term": "severe",
+      "type": "adjective",
+      "definition": "very great; intense",
+      "example": "The storm caused severe damage to the building.",
+      "synonyms": [
+        "serious",
+        "extreme",
+        "acute",
+        "harsh",
+        "drastic"
+      ]
+    },
+    {
+      "term": "spectacular",
+      "type": "adjective",
+      "definition": "impressively great or dramatic",
+      "example": "The fireworks display was truly spectacular.",
+      "synonyms": [
+        "impressive",
+        "amazing",
+        "breathtaking",
+        "dazzling",
+        "magnificent"
+      ]
+    },
+    {
+      "term": "superficial",
+      "type": "adjective",
+      "definition": "existing or occurring at the surface",
+      "example": "She only had a superficial injury on her arm.",
+      "synonyms": [
+        "surface-level",
+        "shallow",
+        "outer",
+        "superficially",
+        "exterior"
+      ]
+    },
+    {
+      "term": "superficial",
+      "type": "adjective",
+      "definition": "appearing to be true or real only until examined more closely",
+      "example": "His argument was deemed superficial after further investigation.",
+      "synonyms": [
+        "superficially",
+        "shallow",
+        "surface-level",
+        "apparent",
+        "external"
+      ]
+    },
+    {
+      "term": "thick",
+      "type": "adjective",
+      "definition": "having relatively great extent from one surface to the opposite, not thin",
+      "example": "The soup was too thick to pour easily.",
+      "synonyms": [
+        "dense",
+        "viscous",
+        "solid",
+        "chunky",
+        "compact"
+      ]
+    },
+    {
+      "term": "thick",
+      "type": "adverb",
+      "definition": "in a thick manner; closely or closely together; in quick succession; frequently or in great quantities",
+      "example": "They were thick as thieves.",
+      "synonyms": [
+        "closely",
+        "densely",
+        "tightly",
+        "frequently",
+        "rapidly"
+      ]
+    },
+    {
+      "term": "vague",
+      "type": "adjective",
+      "definition": "unclear or not definite",
+      "example": "His instructions were so vague that I didn't know what to do.",
+      "synonyms": [
+        "indefinite",
+        "ambiguous",
+        "uncertain",
+        "imprecise",
+        "hazy"
+      ]
+    },
+    {
+      "term": "wise",
+      "type": "noun",
+      "definition": "A way of being knowledgeable and having good judgement; the quality of being wise",
+      "example": "She sought the advice of her grandmother, known for her wisdom.",
+      "synonyms": [
+        "sagacity",
+        "insight",
+        "prudence",
+        "discernment",
+        "foresight"
+      ]
+    },
+    {
+      "term": "wise",
+      "type": "adjective",
+      "definition": "Showing experience, knowledge, and good judgement; having the ability to make sound decisions",
+      "example": "He is a wise leader who always considers the long-term consequences of his actions.",
+      "synonyms": [
+        "sensible",
+        "judicious",
+        "astute",
+        "shrewd",
+        "prudent"
+      ]
+    }
+  ],
+  "group5": [
+    {
+      "term": "amateur",
+      "type": "noun",
+      "definition": "A person who engages in a pursuit, especially a sport, on an unpaid or nonprofessional basis.",
+      "example": "He is just an amateur at playing the guitar.",
+      "synonyms": [
+        "novice",
+        "beginner",
+        "nonprofessional",
+        "dabbler",
+        "layman"
+      ]
+    },
+    {
+      "term": "amateur",
+      "type": "adjective",
+      "definition": "Engaging or engaged in without payment or a professional basis.",
+      "example": "She gave an amateur performance in the school play.",
+      "synonyms": [
+        "nonprofessional",
+        "unpaid",
+        "unskilled",
+        "inexperienced",
+        "novice"
+      ]
+    },
+    {
+      "term": "blank",
+      "type": "noun",
+      "definition": "a space left empty for writing or printing",
+      "example": "Fill in the blanks with the correct answers.",
+      "synonyms": [
+        "space",
+        "empty",
+        "lacuna",
+        "void",
+        "vacancy"
+      ]
+    },
+    {
+      "term": "blank",
+      "type": "adjective",
+      "definition": "having an empty, clear, or open surface",
+      "example": "She stared at the blank page, unsure of what to write.",
+      "synonyms": [
+        "empty",
+        "clear",
+        "void",
+        "bare",
+        "plain"
+      ]
+    },
+    {
+      "term": "delicate",
+      "type": "adjective",
+      "definition": "exquisitely fine or dainty",
+      "example": "She held the delicate china teacup with care.",
+      "synonyms": [
+        "fragile",
+        "exquisite",
+        "fine",
+        "dainty",
+        "sensitive"
+      ]
+    },
+    {
+      "term": "delicate",
+      "type": "noun",
+      "definition": "a delicate fabric or garment",
+      "example": "She wore a beautiful dress made of delicate lace.",
+      "synonyms": [
+        "fine fabric",
+        "fragile garment",
+        "exquisite material",
+        "dainty clothing",
+        "sensitive textile"
+      ]
+    },
+    {
+      "term": "flexible",
+      "type": "adjective",
+      "definition": "Capable of bending easily without breaking.",
+      "example": "Yoga helps improve flexibility in muscles and joints.",
+      "synonyms": [
+        "pliable",
+        "limber",
+        "pliant",
+        "supple",
+        "elastic"
+      ]
+    },
+    {
+      "term": "harsh",
+      "type": "adjective",
+      "definition": "severe, cruel, or unkind",
+      "example": "The harsh winter weather made it difficult for people to leave their homes.",
+      "synonyms": [
+        "severe",
+        "cruel",
+        "unkind",
+        "stern",
+        "brutal"
+      ]
+    },
+    {
+      "term": "harsh",
+      "type": "adverb",
+      "definition": "in a way that is severe or unkind",
+      "example": "She spoke to him harshly, not realizing how much her words hurt him.",
+      "synonyms": [
+        "severely",
+        "cruelly",
+        "unkindly",
+        "sternly",
+        "brutally"
+      ]
+    },
+    {
+      "term": "incredible",
+      "type": "adjective",
+      "definition": "impossible to believe; extraordinary",
+      "example": "The magician performed an incredible trick that left the audience stunned.",
+      "synonyms": [
+        "unbelievable",
+        "amazing",
+        "astonishing",
+        "remarkable",
+        "extraordinary"
+      ]
+    },
+    {
+      "term": "loose",
+      "type": "adjective",
+      "definition": "not firmly or tightly fixed in place; not compact or dense",
+      "example": "The loose screws needed to be tightened to secure the shelf.",
+      "synonyms": [
+        "slack",
+        "unfastened",
+        "baggy",
+        "free",
+        "unattached"
+      ]
+    },
+    {
+      "term": "loose",
+      "type": "verb",
+      "definition": "release from fastening or attachment",
+      "example": "She decided to loose the dogs to play in the yard.",
+      "synonyms": [
+        "unleash",
+        "free",
+        "release",
+        "let go",
+        "untie"
+      ]
+    },
+    {
+      "term": "permanent",
+      "type": "adjective",
+      "definition": "lasting or intended to last indefinitely",
+      "example": "She dyed her hair a permanent shade of red.",
+      "synonyms": [
+        "lasting",
+        "enduring",
+        "stable",
+        "unchanging",
+        "secure"
+      ]
+    },
+    {
+      "term": "permanent",
+      "type": "noun",
+      "definition": "a chemical hair treatment that alters the structure of the hair permanently",
+      "example": "She got a permanent to straighten her curly hair.",
+      "synonyms": [
+        "perm",
+        "permanent wave",
+        "curl",
+        "style",
+        "treatment"
+      ]
+    },
+    {
+      "term": "rash",
+      "type": "noun",
+      "definition": "a series of unpleasant effects on the skin, such as redness, itching, and swelling, typically caused by an allergy or infection",
+      "example": "He developed a rash after coming into contact with poison ivy.",
+      "synonyms": [
+        "skin irritation",
+        "dermatitis",
+        "redness",
+        "itchiness",
+        "inflammation"
+      ]
+    },
+    {
+      "term": "rash",
+      "type": "adjective",
+      "definition": "acting or done quickly and without careful consideration",
+      "example": "His rash decision to quit his job without a backup plan left him struggling financially.",
+      "synonyms": [
+        "hasty",
+        "impulsive",
+        "reckless",
+        "heedless",
+        "thoughtless"
+      ]
+    },
+    {
+      "term": "sensible",
+      "type": "adjective",
+      "definition": "having, using, or showing good sense or sound judgment",
+      "example": "She made a sensible decision to save money for the future.",
+      "synonyms": [
+        "practical",
+        "reasonable",
+        "wise",
+        "judicious",
+        "logical"
+      ]
+    },
+    {
+      "term": "straight",
+      "type": "adjective",
+      "definition": "extending or moving uniformly in one direction only; without a curve or angle",
+      "example": "He drew a straight line from one end of the paper to the other.",
+      "synonyms": [
+        "direct",
+        "linear",
+        "unbent",
+        "unbowed",
+        "unswerving"
+      ]
+    },
+    {
+      "term": "straight",
+      "type": "adverb",
+      "definition": "in a direct way; without deviation",
+      "example": "She walked straight ahead without looking back.",
+      "synonyms": [
+        "directly",
+        "immediately",
+        "promptly",
+        "right",
+        "straightaway"
+      ]
+    },
+    {
+      "term": "straight",
+      "type": "noun",
+      "definition": "a straight part, form, position, etc.",
+      "example": "The road ahead is a long straight.",
+      "synonyms": [
+        "line",
+        "route",
+        "path",
+        "track",
+        "course"
+      ]
+    },
+    {
+      "term": "superior",
+      "type": "noun",
+      "definition": "A person of higher rank or status",
+      "example": "She spoke to her superior about the issue.",
+      "synonyms": [
+        "boss",
+        "chief",
+        "manager",
+        "supervisor",
+        "director"
+      ]
+    },
+    {
+      "term": "superior",
+      "type": "adjective",
+      "definition": "Higher in rank, status, or quality",
+      "example": "The superior quality of the product sets it apart from others.",
+      "synonyms": [
+        "higher",
+        "better",
+        "upper",
+        "greater",
+        "top"
+      ]
+    },
+    {
+      "term": "swift",
+      "type": "adjective",
+      "definition": "happening quickly or promptly",
+      "example": "The swift wind carried the kite high into the sky.",
+      "synonyms": [
+        "quick",
+        "fast",
+        "speedy",
+        "rapid",
+        "prompt"
+      ]
+    },
+    {
+      "term": "swift",
+      "type": "noun",
+      "definition": "a North American bird with long, pointed wings and a forked tail",
+      "example": "The swift is known for its agile flight and ability to catch insects in the air.",
+      "synonyms": [
+        "swallow",
+        "martlet",
+        "hirundine",
+        "bird",
+        "avian"
+      ]
+    },
+    {
+      "term": "vocal",
+      "type": "noun",
+      "definition": "the sound produced by the vibration of the vocal cords, used in speaking or singing",
+      "example": "His vocal was amazing during the performance.",
+      "synonyms": [
+        "voice",
+        "speech",
+        "utterance",
+        "vocals",
+        "vocalization"
+      ]
+    },
+    {
+      "term": "vocal",
+      "type": "adjective",
+      "definition": "relating to the voice or speech",
+      "example": "She has a strong vocal presence on stage.",
+      "synonyms": [
+        "verbal",
+        "spoken",
+        "vocalized",
+        "oral",
+        "articulate"
+      ]
+    }
+  ],
+  "group6": [
+    {
+      "term": "brisk",
+      "type": "adjective",
+      "definition": "active, fast, or energetic",
+      "example": "She took a brisk walk in the morning to wake herself up.",
+      "synonyms": [
+        "quick",
+        "lively",
+        "energetic",
+        "vigorous",
+        "brisk"
+      ]
+    },
+    {
+      "term": "brisk",
+      "type": "verb",
+      "definition": "to make or become quick or energetic",
+      "example": "He brisked up the conversation by introducing a new topic.",
+      "synonyms": [
+        "quicken",
+        "liven up",
+        "revitalize",
+        "stimulate",
+        "enliven"
+      ]
+    },
+    {
+      "term": "deliberate",
+      "type": "verb",
+      "definition": "to carefully think about or consider",
+      "example": "She deliberated for hours before making a decision.",
+      "synonyms": [
+        "consider",
+        "contemplate",
+        "ponder",
+        "reflect",
+        "weigh"
+      ]
+    },
+    {
+      "term": "deliberate",
+      "type": "adjective",
+      "definition": "done consciously and intentionally",
+      "example": "The deliberate act of kindness warmed her heart.",
+      "synonyms": [
+        "intentional",
+        "purposeful",
+        "calculated",
+        "planned",
+        "premeditated"
+      ]
+    },
+    {
+      "term": "deliberate",
+      "type": "noun",
+      "definition": "a thoughtful and careful consideration or discussion",
+      "example": "The committee conducted a deliberate on the proposed changes.",
+      "synonyms": [
+        "discussion",
+        "consideration",
+        "debate",
+        "consultation",
+        "deliberation"
+      ]
+    },
+    {
+      "term": "efficient",
+      "type": "adjective",
+      "definition": "achieving maximum productivity with minimum wasted effort or expense",
+      "example": "She is a very efficient worker who always completes tasks ahead of schedule.",
+      "synonyms": [
+        "productive",
+        "effective",
+        "competent",
+        "capable",
+        "skilled"
+      ]
+    },
+    {
+      "term": "empty",
+      "type": "adjective",
+      "definition": "containing nothing; not filled or occupied",
+      "example": "The empty bottle rolled off the table.",
+      "synonyms": [
+        "vacant",
+        "hollow",
+        "void",
+        "bare",
+        "deserted"
+      ]
+    },
+    {
+      "term": "empty",
+      "type": "verb",
+      "definition": "to remove all the contents of something",
+      "example": "Please empty the trash bin before it overflows.",
+      "synonyms": [
+        "clear",
+        "unload",
+        "evacuate",
+        "drain",
+        "void"
+      ]
+    },
+    {
+      "term": "fabulous",
+      "type": "adjective",
+      "definition": "extraordinarily good or outstanding; wonderful",
+      "example": "She wore a fabulous dress to the party.",
+      "synonyms": [
+        "fantastic",
+        "marvelous",
+        "amazing",
+        "incredible",
+        "superb"
+      ]
+    },
+    {
+      "term": "foul",
+      "type": "noun",
+      "definition": "An infringement or offense against the rules in a sport or game.",
+      "example": "The referee called a foul on the basketball player for pushing.",
+      "synonyms": [
+        "violation",
+        "infraction",
+        "penalty",
+        "misconduct",
+        "transgression"
+      ]
+    },
+    {
+      "term": "foul",
+      "type": "adjective",
+      "definition": "Offensive to the senses; disgusting.",
+      "example": "The foul smell coming from the garbage bin made everyone cover their noses.",
+      "synonyms": [
+        "unpleasant",
+        "noxious",
+        "fetid",
+        "rank",
+        "putrid"
+      ]
+    },
+    {
+      "term": "foul",
+      "type": "verb",
+      "definition": "To make something dirty or contaminated.",
+      "example": "The spilled coffee fouled the carpet, leaving a dark stain.",
+      "synonyms": [
+        "dirty",
+        "contaminate",
+        "pollute",
+        "taint",
+        "sully"
+      ]
+    },
+    {
+      "term": "horrible",
+      "type": "adjective",
+      "definition": "causing or likely to cause horror; shocking",
+      "example": "The horrible crime scene left everyone in shock.",
+      "synonyms": [
+        "dreadful",
+        "appalling",
+        "atrocious",
+        "ghastly",
+        "gruesome"
+      ]
+    },
+    {
+      "term": "independent",
+      "type": "adjective",
+      "definition": "Not influenced or controlled by others in matters of opinion, conduct, etc.; thinking or acting for oneself",
+      "example": "She is an independent thinker who always forms her own opinions.",
+      "synonyms": [
+        "autonomous",
+        "self-reliant",
+        "individualistic",
+        "freethinking",
+        "self-sufficient"
+      ]
+    },
+    {
+      "term": "independent",
+      "type": "noun",
+      "definition": "A person who is not connected with or influenced by a particular group, especially a political party",
+      "example": "She decided to run for office as an independent in the upcoming election.",
+      "synonyms": [
+        "nonpartisan",
+        "unaffiliated",
+        "neutral",
+        "unbiased",
+        "unaligned"
+      ]
+    },
+    {
+      "term": "local",
+      "type": "noun",
+      "definition": "A person or thing that is local or native to a particular place.",
+      "example": "The locals in the small town were friendly and welcoming.",
+      "synonyms": [
+        "resident",
+        "inhabitant",
+        "native",
+        "townsfolk",
+        "villager"
+      ]
+    },
+    {
+      "term": "local",
+      "type": "adjective",
+      "definition": "Relating to or occurring in a particular area, city, or town.",
+      "example": "We decided to support the local businesses in our community.",
+      "synonyms": [
+        "community",
+        "neighborhood",
+        "regional",
+        "domestic",
+        "homegrown"
+      ]
+    },
+    {
+      "term": "pale",
+      "type": "adjective",
+      "definition": "Having a light color or shade, lacking intensity.",
+      "example": "The pale moonlight illuminated the room.",
+      "synonyms": [
+        "light",
+        "faint",
+        "subdued",
+        "soft",
+        "weak"
+      ]
+    },
+    {
+      "term": "pale",
+      "type": "noun",
+      "definition": "A wooden stake or post used as an upright in construction.",
+      "example": "The workers secured the structure with sturdy pales.",
+      "synonyms": [
+        "post",
+        "stake",
+        "bar",
+        "rod",
+        "plank"
+      ]
+    },
+    {
+      "term": "recent",
+      "type": "adjective",
+      "definition": "having happened, begun, or been done not long ago",
+      "example": "She gave a summary of the recent events at the meeting.",
+      "synonyms": [
+        "latest",
+        "current",
+        "fresh",
+        "new",
+        "up-to-date"
+      ]
+    },
+    {
+      "term": "sensitive",
+      "type": "adjective",
+      "definition": "quick to detect or respond to slight changes, signals, or influences; easily affected or offended",
+      "example": "She is very sensitive to criticism and often gets upset.",
+      "synonyms": [
+        "responsive",
+        "susceptible",
+        "vulnerable",
+        "delicate",
+        "emotional"
+      ]
+    },
+    {
+      "term": "sensitive",
+      "type": "noun",
+      "definition": "a person who can detect or respond to slight changes, signals, or influences; someone who is easily affected emotionally",
+      "example": "He is a sensitive and caring individual who always looks out for others.",
+      "synonyms": [
+        "empath",
+        "sympathizer",
+        "feelings-oriented person",
+        "emotional person",
+        "kind-hearted person"
+      ]
+    },
+    {
+      "term": "slight",
+      "type": "noun",
+      "definition": "a small amount or degree of something",
+      "example": "She felt a slight of disappointment when she didn't win the competition.",
+      "synonyms": [
+        "trace",
+        "hint",
+        "modicum",
+        "smidgen",
+        "dash"
+      ]
+    },
+    {
+      "term": "slight",
+      "type": "adjective",
+      "definition": "small in degree; inconsiderable",
+      "example": "He gave her a slight smile before walking away.",
+      "synonyms": [
+        "minor",
+        "slender",
+        "small",
+        "minimal",
+        "negligible"
+      ]
+    },
+    {
+      "term": "slight",
+      "type": "verb",
+      "definition": "to treat with disdain or indifference; to belittle",
+      "example": "She felt insulted when he chose to slight her accomplishments.",
+      "synonyms": [
+        "ignore",
+        "disregard",
+        "snub",
+        "disrespect",
+        "shun"
+      ]
+    },
+    {
+      "term": "smart",
+      "type": "adjective",
+      "definition": "having or showing a quick-witted intelligence",
+      "example": "He is a smart student who always scores the highest marks in the class.",
+      "synonyms": [
+        "intelligent",
+        "clever",
+        "sharp",
+        "bright",
+        "astute"
+      ]
+    },
+    {
+      "term": "smart",
+      "type": "noun",
+      "definition": "a sharp, quick, lively mental ability",
+      "example": "She used her smart to solve the puzzle in record time.",
+      "synonyms": [
+        "wit",
+        "keenness",
+        "intelligence",
+        "cunning",
+        "quickness"
+      ]
+    },
+    {
+      "term": "smart",
+      "type": "verb",
+      "definition": "to cause something to operate or function in a clever or effective way",
+      "example": "He was able to smartly fix the broken computer in no time.",
+      "synonyms": [
+        "repair",
+        "fix",
+        "mend",
+        "rectify",
+        "debug"
+      ]
+    },
+    {
+      "term": "tough",
+      "type": "adjective",
+      "definition": "having a rough or hard texture; strong and durable",
+      "example": "The tough leather jacket protected him from the cold wind.",
+      "synonyms": [
+        "strong",
+        "sturdy",
+        "durable",
+        "robust",
+        "resilient"
+      ]
+    },
+    {
+      "term": "tough",
+      "type": "adjective",
+      "definition": "difficult to deal with, hardy or stoic in nature",
+      "example": "She had a tough decision to make about her future.",
+      "synonyms": [
+        "challenging",
+        "difficult",
+        "hard",
+        "demanding",
+        "arduous"
+      ]
+    },
+    {
+      "term": "tough",
+      "type": "noun",
+      "definition": "a tough person, especially a criminal",
+      "example": "The tough in the gang intimidated everyone with his rough appearance.",
+      "synonyms": [
+        "ruffian",
+        "bruiser",
+        "bully",
+        "thug",
+        "heavy"
+      ]
+    },
+    {
+      "term": "tough",
+      "type": "verb",
+      "definition": "endure hardship or difficulty",
+      "example": "She had to tough out the rough conditions until help arrived.",
+      "synonyms": [
+        "endure",
+        "withstand",
+        "bear",
+        "brave",
+        "suffer"
+      ]
+    }
+  ],
+  "group7": [
+    {
+      "term": "ancient",
+      "type": "adjective",
+      "definition": "belonging to the distant past, typically from a period in history before the fall of the Roman Empire",
+      "example": "The archaeologists discovered some ancient artifacts in the ruins of the old city.",
+      "synonyms": [
+        "old",
+        "antique",
+        "historic",
+        "aged",
+        "vintage"
+      ]
+    },
+    {
+      "term": "blurry",
+      "type": "adjective",
+      "definition": "not clear; lacking distinctness",
+      "example": "The photo turned out blurry because the camera was shaking.",
+      "synonyms": [
+        "fuzzy",
+        "indistinct",
+        "unclear",
+        "cloudy",
+        "obscured"
+      ]
+    },
+    {
+      "term": "cozy",
+      "type": "adjective",
+      "definition": "giving a feeling of comfort, warmth, and relaxation",
+      "example": "She snuggled up in a cozy blanket by the fireplace.",
+      "synonyms": [
+        "comfortable",
+        "warm",
+        "snug",
+        "homely",
+        "inviting"
+      ]
+    },
+    {
+      "term": "cozy",
+      "type": "noun",
+      "definition": "a small, comfortable, or intimate space",
+      "example": "The reading nook in the corner is my favorite cozy spot.",
+      "synonyms": [
+        "snug corner",
+        "comfortable space",
+        "intimate area",
+        "warm retreat",
+        "small sanctuary"
+      ]
+    },
+    {
+      "term": "electric",
+      "type": "adjective",
+      "definition": "relating to electricity; operating by or producing electricity",
+      "example": "The electric car is powered by a battery.",
+      "synonyms": [
+        "electrical",
+        "powered",
+        "wired",
+        "energized",
+        "charged"
+      ]
+    },
+    {
+      "term": "firm",
+      "type": "noun",
+      "definition": "A business organization, especially one involving a partnership of two or more people.",
+      "example": "She works at a law firm in the city.",
+      "synonyms": [
+        "company",
+        "enterprise",
+        "agency",
+        "corporation",
+        "practice"
+      ]
+    },
+    {
+      "term": "firm",
+      "type": "adjective",
+      "definition": "Having a solid, unyielding surface or structure.",
+      "example": "Make sure the ladder is on a firm footing before you climb.",
+      "synonyms": [
+        "solid",
+        "steady",
+        "stable",
+        "rigid",
+        "secure"
+      ]
+    },
+    {
+      "term": "firm",
+      "type": "adverb",
+      "definition": "In a resolute and determined manner.",
+      "example": "She stated her opinion firmly during the meeting.",
+      "synonyms": [
+        "strongly",
+        "decisively",
+        "steadfastly",
+        "assertively",
+        "emphatically"
+      ]
+    },
+    {
+      "term": "flat",
+      "type": "noun",
+      "definition": "a level area of land",
+      "example": "They set up their tents on a flat by the river.",
+      "synonyms": [
+        "plain",
+        "plateau",
+        "prairie",
+        "meadow",
+        "savannah"
+      ]
+    },
+    {
+      "term": "flat",
+      "type": "adjective",
+      "definition": "having a smooth, even surface; without curves or bumps",
+      "example": "The flat road made for an easy bike ride.",
+      "synonyms": [
+        "level",
+        "even",
+        "smooth",
+        "horizontal",
+        "plane"
+      ]
+    },
+    {
+      "term": "limp",
+      "type": "noun",
+      "definition": "A dragging or uneven gait, caused by a weakness or injury to a leg or foot",
+      "example": "The man walked with a noticeable limp after twisting his ankle.",
+      "synonyms": [
+        "hobble",
+        "shamble",
+        "stagger",
+        "shuffle",
+        "gimp"
+      ]
+    },
+    {
+      "term": "limp",
+      "type": "verb",
+      "definition": "To walk with difficulty or unevenly, typically due to pain or injury",
+      "example": "She limped home after spraining her knee during the soccer game.",
+      "synonyms": [
+        "hobble",
+        "stagger",
+        "shuffle",
+        "stumble",
+        "galumph"
+      ]
+    },
+    {
+      "term": "main",
+      "type": "noun",
+      "definition": "chief or principal part",
+      "example": "The main of a ship is its central structure.",
+      "synonyms": [
+        "chief",
+        "principal",
+        "primary",
+        "leading",
+        "major"
+      ]
+    },
+    {
+      "term": "main",
+      "type": "adjective",
+      "definition": "chief in size or importance",
+      "example": "The main reason for their success was teamwork.",
+      "synonyms": [
+        "chief",
+        "principal",
+        "primary",
+        "leading",
+        "major"
+      ]
+    },
+    {
+      "term": "plain",
+      "type": "noun",
+      "definition": "a large area of flat land with few trees",
+      "example": "The horseback riders galloped across the open plain.",
+      "synonyms": [
+        "prairie",
+        "grassland",
+        "steppe",
+        "savanna",
+        "meadow"
+      ]
+    },
+    {
+      "term": "plain",
+      "type": "adjective",
+      "definition": "simple, without decoration or patterns",
+      "example": "She wore a plain white dress to the party.",
+      "synonyms": [
+        "simple",
+        "unadorned",
+        "unembellished",
+        "basic",
+        "ordinary"
+      ]
+    },
+    {
+      "term": "plain",
+      "type": "adverb",
+      "definition": "clearly; simply; without doubt",
+      "example": "He spoke plain and boldly about his intentions.",
+      "synonyms": [
+        "clearly",
+        "simply",
+        "bluntly",
+        "frankly",
+        "honestly"
+      ]
+    },
+    {
+      "term": "ridiculous",
+      "type": "adjective",
+      "definition": "causing or deserving ridicule; absurd; preposterous; laughable",
+      "example": "The idea of flying to work with jetpacks is ridiculous.",
+      "synonyms": [
+        "absurd",
+        "preposterous",
+        "laughable",
+        "silly",
+        "nonsensical"
+      ]
+    },
+    {
+      "term": "sharp",
+      "type": "adjective",
+      "definition": "having a thin cutting edge or a fine point; keenly perceptive",
+      "example": "The chef used a sharp knife to slice the vegetables. She has a sharp mind and can quickly solve complex problems.",
+      "synonyms": [
+        "pointed",
+        "acute",
+        "keen",
+        "astute",
+        "incisive"
+      ]
+    },
+    {
+      "term": "sharp",
+      "type": "noun",
+      "definition": "a musical tone one semitone higher than a given note, especially a note in a key signature",
+      "example": "The song ended with a high-pitched sharp that resonated throughout the room.",
+      "synonyms": [
+        "# (sharp symbol)",
+        "augmented",
+        "raised",
+        "half step higher",
+        "sharpened"
+      ]
+    },
+    {
+      "term": "strict",
+      "type": "adjective",
+      "definition": "demanding that rules concerning behavior are obeyed and observed",
+      "example": "The teacher had a strict policy against late assignments.",
+      "synonyms": [
+        "rigorous",
+        "severe",
+        "stringent",
+        "precise",
+        "exact"
+      ]
+    },
+    {
+      "term": "strict",
+      "type": "adverb",
+      "definition": "in a way that demands precise adherence to rules or a standard",
+      "example": "The guidelines were followed strictly to ensure accuracy.",
+      "synonyms": [
+        "rigorously",
+        "severely",
+        "stringently",
+        "precisely",
+        "exactly"
+      ]
+    },
+    {
+      "term": "tidy",
+      "type": "adjective",
+      "definition": "Neat and well-organized",
+      "example": "She always keeps her desk tidy and clean.",
+      "synonyms": [
+        "neat",
+        "organized",
+        "orderly",
+        "clean",
+        "trim"
+      ]
+    },
+    {
+      "term": "tidy",
+      "type": "verb",
+      "definition": "To make something neat and well-organized",
+      "example": "He decided to tidy up his room before the guests arrived.",
+      "synonyms": [
+        "clean up",
+        "straighten up",
+        "organize",
+        "put in order",
+        "spruce up"
+      ]
+    },
+    {
+      "term": "tremendous",
+      "type": "adjective",
+      "definition": "extremely large, great, or impressive",
+      "example": "She did a tremendous amount of work to prepare for the presentation.",
+      "synonyms": [
+        "enormous",
+        "huge",
+        "massive",
+        "immense",
+        "gigantic"
+      ]
+    },
+    {
+      "term": "vital",
+      "type": "adjective",
+      "definition": "absolutely necessary; essential",
+      "example": "Regular exercise is vital for maintaining good health.",
+      "synonyms": [
+        "essential",
+        "crucial",
+        "necessary",
+        "critical",
+        "key"
+      ]
+    }
+  ],
+  "group8": [
+    {
+      "term": "artificial",
+      "type": "adjective",
+      "definition": "Made or produced by human beings rather than occurring naturally, especially as a copy of something natural.",
+      "example": "The artificial flowers in the vase looked so real that no one could tell they were not natural.",
+      "synonyms": [
+        "synthetic",
+        "man-made",
+        "imitation",
+        "fake",
+        "simulated"
+      ]
+    },
+    {
+      "term": "awkward",
+      "type": "adjective",
+      "definition": "lacking skill or dexterity; hard to deal with; causing embarrassment",
+      "example": "She felt awkward at the party because she didn't know anyone.",
+      "synonyms": [
+        "uncomfortable",
+        "clumsy",
+        "embarrassing",
+        "unwieldy",
+        "ungainly"
+      ]
+    },
+    {
+      "term": "broad",
+      "type": "noun",
+      "definition": "a wide extent or range; distance between the two sides of a structure",
+      "example": "The river was too deep and broad to swim across.",
+      "synonyms": [
+        "wide",
+        "vast",
+        "extensive",
+        "spacious",
+        "expansive"
+      ]
+    },
+    {
+      "term": "broad",
+      "type": "adjective",
+      "definition": "having a large distance from side to side; wide",
+      "example": "She had broad shoulders that helped her excel in swimming.",
+      "synonyms": [
+        "wide",
+        "wide-ranging",
+        "expansive",
+        "wide-reaching",
+        "comprehensive"
+      ]
+    },
+    {
+      "term": "entire",
+      "type": "adjective",
+      "definition": "whole; complete; not divided into parts",
+      "example": "She read the entire book in one sitting.",
+      "synonyms": [
+        "whole",
+        "complete",
+        "total",
+        "full",
+        "undivided"
+      ]
+    },
+    {
+      "term": "entire",
+      "type": "noun",
+      "definition": "an intact or undivided whole",
+      "example": "He ate the entire of his breakfast before heading to work.",
+      "synonyms": [
+        "whole",
+        "totality",
+        "entirety",
+        "sum total",
+        "aggregate"
+      ]
+    },
+    {
+      "term": "familiar",
+      "type": "adjective",
+      "definition": "well known or easily recognized",
+      "example": "The song had a familiar melody that everyone could sing along to.",
+      "synonyms": [
+        "recognizable",
+        "known",
+        "common",
+        "popular",
+        "standard"
+      ]
+    },
+    {
+      "term": "familiar",
+      "type": "noun",
+      "definition": "a person who is well known to one; often seen, met, or experienced",
+      "example": "She greeted us like an old familiar when we entered the restaurant.",
+      "synonyms": [
+        "acquaintance",
+        "associate",
+        "companion",
+        "friend",
+        "colleague"
+      ]
+    },
+    {
+      "term": "fortunate",
+      "type": "adjective",
+      "definition": "having good luck; lucky",
+      "example": "She considered herself fortunate to have such supportive friends.",
+      "synonyms": [
+        "lucky",
+        "blessed",
+        "fortunate",
+        "lucky",
+        "charmed"
+      ]
+    },
+    {
+      "term": "legitimate",
+      "type": "adjective",
+      "definition": "conforming to the law or to rules",
+      "example": "The company was investigated to ensure their business practices were legitimate.",
+      "synonyms": [
+        "legal",
+        "valid",
+        "lawful",
+        "authorized",
+        "proper"
+      ]
+    },
+    {
+      "term": "legitimate",
+      "type": "verb",
+      "definition": "to make lawful or legal",
+      "example": "The government promised to legitimate the immigrants' status in the country.",
+      "synonyms": [
+        "legalize",
+        "validate",
+        "authorize",
+        "legitimize",
+        "permit"
+      ]
+    },
+    {
+      "term": "ordinary",
+      "type": "adjective",
+      "definition": "with no special or distinctive features; normal.",
+      "example": "She lived in an ordinary house on an ordinary street.",
+      "synonyms": [
+        "usual",
+        "common",
+        "typical",
+        "average",
+        "mundane"
+      ]
+    },
+    {
+      "term": "rigorous",
+      "type": "adjective",
+      "definition": "extremely thorough and accurate",
+      "example": "The research methodology was rigorous, ensuring reliable results.",
+      "synonyms": [
+        "thorough",
+        "precise",
+        "meticulous",
+        "exact",
+        "detailed"
+      ]
+    },
+    {
+      "term": "scarce",
+      "type": "adjective",
+      "definition": "insufficient to meet demand or requirement",
+      "example": "Water became scarce during the drought.",
+      "synonyms": [
+        "limited",
+        "rare",
+        "inadequate",
+        "deficient",
+        "scarce"
+      ]
+    },
+    {
+      "term": "senior",
+      "type": "noun",
+      "definition": "A person who is older or higher in rank or experience within a particular group.",
+      "example": "The senior in the company has been working here for over 20 years.",
+      "synonyms": [
+        "older person",
+        "elder",
+        "superior",
+        "leader",
+        "chief"
+      ]
+    },
+    {
+      "term": "senior",
+      "type": "adjective",
+      "definition": "Of or relating to a more advanced level of study or position.",
+      "example": "She is a senior executive at the firm.",
+      "synonyms": [
+        "higher-level",
+        "advanced",
+        "upper-level",
+        "senior-level",
+        "chief"
+      ]
+    },
+    {
+      "term": "steady",
+      "type": "noun",
+      "definition": "a regular and consistent manner or rate of movement or progress",
+      "example": "She walked at a steady pace towards the finish line.",
+      "synonyms": [
+        "constant",
+        "regular",
+        "uniform",
+        "consistent",
+        "unvarying"
+      ]
+    },
+    {
+      "term": "steady",
+      "type": "verb",
+      "definition": "make or keep steady",
+      "example": "He steadied the ladder before climbing up.",
+      "synonyms": [
+        "stabilize",
+        "secure",
+        "brace",
+        "support",
+        "maintain"
+      ]
+    },
+    {
+      "term": "steady",
+      "type": "adjective",
+      "definition": "firmly fixed, supported, or balanced; not shaky or uncertain",
+      "example": "She held onto the steady railing as she went down the stairs.",
+      "synonyms": [
+        "stable",
+        "secure",
+        "strong",
+        "firm",
+        "unwavering"
+      ]
+    },
+    {
+      "term": "terrific",
+      "type": "adjective",
+      "definition": "excellent; extraordinarily good",
+      "example": "The movie we watched last night was terrific.",
+      "synonyms": [
+        "excellent",
+        "wonderful",
+        "amazing",
+        "fantastic",
+        "superb"
+      ]
+    },
+    {
+      "term": "vivid",
+      "type": "adjective",
+      "definition": "producing powerful feelings or strong, clear images in the mind",
+      "example": "The artist used vivid colors to create a striking painting.",
+      "synonyms": [
+        "bright",
+        "lively",
+        "colorful",
+        "vibrant",
+        "intense"
+      ]
+    },
+    {
+      "term": "vulnerable",
+      "type": "adjective",
+      "definition": "susceptible to physical or emotional harm",
+      "example": "The injured bird was vulnerable to predators.",
+      "synonyms": [
+        "exposed",
+        "at risk",
+        "open",
+        "defenseless",
+        "helpless"
+      ]
+    }
+  ],
+  "group9": [
+    {
+      "term": "apparent",
+      "type": "adjective",
+      "definition": "clearly visible or understood; obvious",
+      "example": "The apparent reason for his absence was a sudden illness.",
+      "synonyms": [
+        "evident",
+        "obvious",
+        "clear",
+        "visible",
+        "manifest"
+      ]
+    },
+    {
+      "term": "apparent",
+      "type": "noun",
+      "definition": "an appearance or impression given by something",
+      "example": "Her calm demeanor was just an apparent display of confidence.",
+      "synonyms": [
+        "appearance",
+        "semblance",
+        "outward show",
+        "illusion",
+        "perception"
+      ]
+    },
+    {
+      "term": "brilliant",
+      "type": "adjective",
+      "definition": "very bright or shining; exceptionally clever or talented",
+      "example": "She had a brilliant idea that saved the company a lot of money.",
+      "synonyms": [
+        "bright",
+        "shining",
+        "clever",
+        "talented",
+        "smart"
+      ]
+    },
+    {
+      "term": "brilliant",
+      "type": "noun",
+      "definition": "a very bright or shiny object; a person who has exceptional talent or intelligence",
+      "example": "The diamond necklace sparkled with brilliant light.",
+      "synonyms": [
+        "sparkling",
+        "gleaming",
+        "exceptional",
+        "genius",
+        "mastermind"
+      ]
+    },
+    {
+      "term": "crisp",
+      "type": "noun",
+      "definition": "a thin, brittle wafer or biscuit, especially one served with ice cream",
+      "example": "The dessert was served with a delicious almond crisp.",
+      "synonyms": [
+        "biscuit",
+        "wafer",
+        "cookie",
+        "cracker",
+        "barquette"
+      ]
+    },
+    {
+      "term": "crisp",
+      "type": "adjective",
+      "definition": "firm, dry, and brittle in texture or quality",
+      "example": "The autumn air was cool and crisp.",
+      "synonyms": [
+        "crunchy",
+        "crispy",
+        "hard",
+        "dry",
+        "brittle"
+      ]
+    },
+    {
+      "term": "crisp",
+      "type": "verb",
+      "definition": "to make something firm, dry, and brittle by cooking it in oil or an oven",
+      "example": "She likes to crisp the potatoes in the oven for extra texture.",
+      "synonyms": [
+        "brown",
+        "fry",
+        "cook",
+        "toast",
+        "roast"
+      ]
+    },
+    {
+      "term": "false",
+      "type": "adjective",
+      "definition": "not according with truth or fact; incorrect",
+      "example": "The information he gave was false.",
+      "synonyms": [
+        "untrue",
+        "incorrect",
+        "inaccurate",
+        "wrong",
+        "misleading"
+      ]
+    },
+    {
+      "term": "false",
+      "type": "noun",
+      "definition": "a falsehood; an untrue statement made to deceive",
+      "example": "He was caught in a web of lies and false.",
+      "synonyms": [
+        "lie",
+        "deception",
+        "fabrication",
+        "untruth",
+        "fib"
+      ]
+    },
+    {
+      "term": "frequent",
+      "type": "adjective",
+      "definition": "happening or occurring at short intervals",
+      "example": "She is a frequent visitor to the museum.",
+      "synonyms": [
+        "common",
+        "regular",
+        "repeated",
+        "constant",
+        "habitual"
+      ]
+    },
+    {
+      "term": "frequent",
+      "type": "verb",
+      "definition": "to visit or attend often or regularly",
+      "example": "I frequent this coffee shop because it has great pastries.",
+      "synonyms": [
+        "visit",
+        "patronize",
+        "attend",
+        "haunt",
+        "frequent"
+      ]
+    },
+    {
+      "term": "gradual",
+      "type": "adjective",
+      "definition": "happening or changing slowly over time",
+      "example": "The company saw a gradual increase in sales over the course of the year.",
+      "synonyms": [
+        "steady",
+        "slow",
+        "progressive",
+        "gradualistic",
+        "incremental"
+      ]
+    },
+    {
+      "term": "immediate",
+      "type": "adjective",
+      "definition": "occurring or done at once; instant.",
+      "example": "She needed immediate medical attention.",
+      "synonyms": [
+        "instant",
+        "instantaneous",
+        "prompt",
+        "direct",
+        "swift"
+      ]
+    },
+    {
+      "term": "immediate",
+      "type": "noun",
+      "definition": "a person who is next in line of relationship or descent.",
+      "example": "He is the immediate successor to the CEO.",
+      "synonyms": [
+        "next",
+        "direct",
+        "close",
+        "proximate",
+        "lineal"
+      ]
+    },
+    {
+      "term": "magnificent",
+      "type": "adjective",
+      "definition": "extremely impressive or beautiful; striking",
+      "example": "The view from the mountaintop was absolutely magnificent.",
+      "synonyms": [
+        "splendid",
+        "glorious",
+        "majestic",
+        "grand",
+        "imposing"
+      ]
+    },
+    {
+      "term": "pure",
+      "type": "adjective",
+      "definition": "not mixed or adulterated with any other substance or material",
+      "example": "She has a pure heart, always looking for the best in people.",
+      "synonyms": [
+        "unadulterated",
+        "untainted",
+        "genuine",
+        "authentic",
+        "clean"
+      ]
+    },
+    {
+      "term": "pure",
+      "type": "noun",
+      "definition": "a pure substance, especially one that is not mixed with anything else",
+      "example": "The chemist used pure ethanol for the experiment.",
+      "synonyms": [
+        "unadulterated substance",
+        "undiluted material",
+        "unmixed element",
+        "clean specimen",
+        "genuine compound"
+      ]
+    },
+    {
+      "term": "rare",
+      "type": "adjective",
+      "definition": "uncommon, infrequent, or scarce",
+      "example": "Finding a unicorn is a rare occurrence.",
+      "synonyms": [
+        "uncommon",
+        "scarce",
+        "unusual",
+        "exceptional",
+        "uncommon"
+      ]
+    },
+    {
+      "term": "rare",
+      "type": "noun",
+      "definition": "something uncommon or scarce",
+      "example": "The antique book is a rare in the collection.",
+      "synonyms": [
+        "uncommon item",
+        "scarce object",
+        "treasure",
+        "gem",
+        "find"
+      ]
+    },
+    {
+      "term": "simple",
+      "type": "adjective",
+      "definition": "easily understood or done; presenting no difficulty",
+      "example": "The instructions were simple and clear to follow.",
+      "synonyms": [
+        "easy",
+        "straightforward",
+        "plain",
+        "uncomplicated",
+        "basic"
+      ]
+    },
+    {
+      "term": "simple",
+      "type": "noun",
+      "definition": "a basic, essential, or uncomplicated element; a simple form or substance",
+      "example": "The recipe only required a few simples like flour, sugar, and eggs.",
+      "synonyms": [
+        "element",
+        "component",
+        "ingredient",
+        "basic",
+        "substance"
+      ]
+    },
+    {
+      "term": "standard",
+      "type": "noun",
+      "definition": "a level of quality or achievement that is considered acceptable or desirable",
+      "example": "The company has set high standards for customer service.",
+      "synonyms": [
+        "norm",
+        "benchmark",
+        "criterion",
+        "specification",
+        "guideline"
+      ]
+    },
+    {
+      "term": "standard",
+      "type": "adjective",
+      "definition": "used or accepted as normal or usual",
+      "example": "This is a standard procedure for all new employees.",
+      "synonyms": [
+        "typical",
+        "ordinary",
+        "conventional",
+        "normal",
+        "usual"
+      ]
+    },
+    {
+      "term": "tiny",
+      "type": "adjective",
+      "definition": "very small in size or amount",
+      "example": "She found a tiny frog in the garden.",
+      "synonyms": [
+        "small",
+        "minuscule",
+        "petite",
+        "diminutive",
+        "microscopic"
+      ]
+    },
+    {
+      "term": "vast",
+      "type": "adjective",
+      "definition": "of very great extent or quantity; immense",
+      "example": "The Sahara Desert is a vast expanse of sand and dunes.",
+      "synonyms": [
+        "huge",
+        "immense",
+        "enormous",
+        "boundless",
+        "massive"
+      ]
+    },
+    {
+      "term": "weird",
+      "type": "adjective",
+      "definition": "suggesting the operation of supernatural influences; unearthly or uncanny",
+      "example": "The old house had a weird atmosphere that made everyone feel uneasy.",
+      "synonyms": [
+        "strange",
+        "odd",
+        "bizarre",
+        "peculiar",
+        "eerie"
+      ]
+    }
+  ],
+  "group10": [
+    {
+      "term": "antique",
+      "type": "noun",
+      "definition": "a collectible object such as a piece of furniture or work of art that has a high value due to its age and historical significance",
+      "example": "She inherited some valuable antiques from her grandparents.",
+      "synonyms": [
+        "relic",
+        "heirloom",
+        "artifact",
+        "vintage",
+        "treasure"
+      ]
+    },
+    {
+      "term": "antique",
+      "type": "adjective",
+      "definition": "belonging to or dating from a past era; old-fashioned or obsolete",
+      "example": "The antique clock in the living room is over a hundred years old.",
+      "synonyms": [
+        "vintage",
+        "ancient",
+        "old-fashioned",
+        "outdated",
+        "retro"
+      ]
+    },
+    {
+      "term": "bright",
+      "type": "adjective",
+      "definition": "giving out or reflecting a lot of light; shining",
+      "example": "The bright sun illuminated the room.",
+      "synonyms": [
+        "shiny",
+        "luminous",
+        "radiant",
+        "glowing",
+        "brilliant"
+      ]
+    },
+    {
+      "term": "bright",
+      "type": "adjective",
+      "definition": "intelligent and quick-witted",
+      "example": "She is a bright student who excels in her studies.",
+      "synonyms": [
+        "intelligent",
+        "clever",
+        "smart",
+        "sharp",
+        "quick-witted"
+      ]
+    },
+    {
+      "term": "compact",
+      "type": "noun",
+      "definition": "a formal agreement or contract between two or more parties",
+      "example": "The two companies signed a compact to work together on the project.",
+      "synonyms": [
+        "agreement",
+        "contract",
+        "deal",
+        "pact",
+        "accord"
+      ]
+    },
+    {
+      "term": "compact",
+      "type": "adjective",
+      "definition": "closely and neatly packed together; dense",
+      "example": "The compact design of the new laptop makes it easy to carry around.",
+      "synonyms": [
+        "dense",
+        "compressed",
+        "tight",
+        "concentrated",
+        "solid"
+      ]
+    },
+    {
+      "term": "fake",
+      "type": "noun",
+      "definition": "something that is not genuine; a forgery or imitation",
+      "example": "The art expert confirmed that the painting was a fake.",
+      "synonyms": [
+        "forgery",
+        "counterfeit",
+        "imitation",
+        "replica",
+        "dummy"
+      ]
+    },
+    {
+      "term": "fake",
+      "type": "verb",
+      "definition": "to create a forgery or imitation of something",
+      "example": "The company was accused of faking their financial reports.",
+      "synonyms": [
+        "forge",
+        "counterfeit",
+        "imitate",
+        "replicate",
+        "fabricate"
+      ]
+    },
+    {
+      "term": "fake",
+      "type": "adjective",
+      "definition": "not genuine; counterfeit or false",
+      "example": "She was wearing a fake diamond ring.",
+      "synonyms": [
+        "counterfeit",
+        "pseudo",
+        "artificial",
+        "spurious",
+        "bogus"
+      ]
+    },
+    {
+      "term": "formal",
+      "type": "adjective",
+      "definition": "following or according with established form, custom, or rule",
+      "example": "She wore a formal dress to the wedding.",
+      "synonyms": [
+        "official",
+        "ceremonial",
+        "traditional",
+        "proper",
+        "conventional"
+      ]
+    },
+    {
+      "term": "formal",
+      "type": "noun",
+      "definition": "a gown for evening wear",
+      "example": "She looked elegant in her black formal.",
+      "synonyms": [
+        "evening gown",
+        "ball gown",
+        "gala dress",
+        "formalwear",
+        "dress suit"
+      ]
+    },
+    {
+      "term": "giant",
+      "type": "noun",
+      "definition": "A mythical or imaginary being of human form but superhuman size.",
+      "example": "The giant roamed the land, causing fear and awe among the villagers.",
+      "synonyms": [
+        "colossus",
+        "titan",
+        "monster",
+        "behemoth",
+        "ogre"
+      ]
+    },
+    {
+      "term": "giant",
+      "type": "adjective",
+      "definition": "Of very great size or force; gigantic.",
+      "example": "The team faced a giant challenge in the final match of the season.",
+      "synonyms": [
+        "enormous",
+        "immense",
+        "massive",
+        "monumental",
+        "tremendous"
+      ]
+    },
+    {
+      "term": "loud",
+      "type": "adjective",
+      "definition": "characterized by a great volume or intensity",
+      "example": "The loud music from the party next door kept me awake all night.",
+      "synonyms": [
+        "noisy",
+        "boisterous",
+        "ear-splitting",
+        "thunderous",
+        "piercing"
+      ]
+    },
+    {
+      "term": "loud",
+      "type": "adverb",
+      "definition": "in a manner that produces a great volume or intensity",
+      "example": "She spoke so loud that everyone in the room could hear her.",
+      "synonyms": [
+        "noisily",
+        "vociferously",
+        "boisterously",
+        "thunderously",
+        "piercingly"
+      ]
+    },
+    {
+      "term": "modern",
+      "type": "adjective",
+      "definition": "relating to the present or recent times as opposed to the past",
+      "example": "They live in a modern house with all the latest technology.",
+      "synonyms": [
+        "contemporary",
+        "up-to-date",
+        "current",
+        "fashionable",
+        "stylish"
+      ]
+    },
+    {
+      "term": "modern",
+      "type": "noun",
+      "definition": "a person who advocates or practices principles typical of modernism",
+      "example": "She is considered a modern in the art world for her innovative techniques.",
+      "synonyms": [
+        "progressive",
+        "innovator",
+        "avant-garde",
+        "pioneer",
+        "trailblazer"
+      ]
+    },
+    {
+      "term": "neat",
+      "type": "adjective",
+      "definition": "tidy and well-organized",
+      "example": "She always keeps her desk neat and clean.",
+      "synonyms": [
+        "tidy",
+        "orderly",
+        "organized",
+        "clean",
+        "spotless"
+      ]
+    },
+    {
+      "term": "neat",
+      "type": "adverb",
+      "definition": "in a neat manner; neatly",
+      "example": "He folded the clothes neatly and placed them in the drawer.",
+      "synonyms": [
+        "tidily",
+        "orderly",
+        "precisely",
+        "cleanly",
+        "smartly"
+      ]
+    },
+    {
+      "term": "perfect",
+      "type": "adjective",
+      "definition": "having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be",
+      "example": "She has a perfect attendance record.",
+      "synonyms": [
+        "flawless",
+        "ideal",
+        "excellent",
+        "impeccable",
+        "unblemished"
+      ]
+    },
+    {
+      "term": "perfect",
+      "type": "verb",
+      "definition": "make (something) completely free from faults or defects; make as good as possible",
+      "example": "She worked hard to perfect her dance routine.",
+      "synonyms": [
+        "improve",
+        "refine",
+        "hone",
+        "mature",
+        "polish"
+      ]
+    },
+    {
+      "term": "perfect",
+      "type": "noun",
+      "definition": "a person or thing considered to be perfect",
+      "example": "He was her perfect match.",
+      "synonyms": [
+        "ideal",
+        "paragon",
+        "model",
+        "epitome",
+        "quintessence"
+      ]
+    },
+    {
+      "term": "sincere",
+      "type": "adjective",
+      "definition": "free from pretense or deceit; genuine",
+      "example": "She gave a sincere apology for her mistake.",
+      "synonyms": [
+        "genuine",
+        "authentic",
+        "honest",
+        "heartfelt",
+        "truthful"
+      ]
+    },
+    {
+      "term": "substantial",
+      "type": "adjective",
+      "definition": "of considerable importance, size, or worth",
+      "example": "She received a substantial raise after her promotion.",
+      "synonyms": [
+        "significant",
+        "considerable",
+        "sizeable",
+        "substantial",
+        "large"
+      ]
+    },
+    {
+      "term": "substantial",
+      "type": "adverb",
+      "definition": "to a great or significant extent",
+      "example": "His income increased substantially over the years.",
+      "synonyms": [
+        "considerably",
+        "greatly",
+        "significantly",
+        "largely",
+        "substantially"
+      ]
+    },
+    {
+      "term": "toxic",
+      "type": "adjective",
+      "definition": "harmful or poisonous",
+      "example": "The chemical spill created a toxic environment for the wildlife.",
+      "synonyms": [
+        "poisonous",
+        "harmful",
+        "dangerous",
+        "noxious",
+        "venomous"
+      ]
+    },
+    {
+      "term": "unanimous",
+      "type": "adjective",
+      "definition": "fully in agreement",
+      "example": "The board members were unanimous in their decision to approve the proposal.",
+      "synonyms": [
+        "undivided",
+        "agreed",
+        "concordant",
+        "harmonious",
+        "congruent"
+      ]
+    },
+    {
+      "term": "wide",
+      "type": "adjective",
+      "definition": "measuring a great distance from side to side",
+      "example": "The river was too wide to cross without a boat.",
+      "synonyms": [
+        "broad",
+        "spacious",
+        "expansive",
+        "vast",
+        "extensive"
+      ]
+    },
+    {
+      "term": "wide",
+      "type": "adverb",
+      "definition": "over a large area or distance",
+      "example": "His arms were spread wide.",
+      "synonyms": [
+        "broadly",
+        "extensively",
+        "vastly",
+        "largely",
+        "generally"
+      ]
+    },
+    {
+      "term": "wide",
+      "type": "noun",
+      "definition": "a wide space or distance",
+      "example": "The car was parked at a wide between the two buildings.",
+      "synonyms": [
+        "breadth",
+        "width",
+        "extent",
+        "distance",
+        "span"
+      ]
+    }
+  ],
+  "group11": [
+    {
+      "term": "ample",
+      "type": "adjective",
+      "definition": "enough or more than enough; plentiful",
+      "example": "The buffet offered an ample selection of dishes.",
+      "synonyms": [
+        "plentiful",
+        "abundant",
+        "plenty",
+        "plenteous",
+        "sufficient"
+      ]
+    },
+    {
+      "term": "average",
+      "type": "noun",
+      "definition": "a quantity, rating, or the like that represents or approximates an arithmetic mean",
+      "example": "The average of 5, 7, and 9 is 7.",
+      "synonyms": [
+        "mean",
+        "norm",
+        "midpoint",
+        "median",
+        "middle"
+      ]
+    },
+    {
+      "term": "average",
+      "type": "verb",
+      "definition": "calculate or estimate the average of (a quantity, measurement, etc.)",
+      "example": "Let's average the scores of the students to determine the class average.",
+      "synonyms": [
+        "calculate",
+        "determine",
+        "compute",
+        "estimate",
+        "evaluate"
+      ]
+    },
+    {
+      "term": "average",
+      "type": "adjective",
+      "definition": "typical; ordinary",
+      "example": "She has an average talent in drawing.",
+      "synonyms": [
+        "typical",
+        "usual",
+        "ordinary",
+        "normal",
+        "common"
+      ]
+    },
+    {
+      "term": "bizarre",
+      "type": "adjective",
+      "definition": "very strange or unusual, especially so as to cause interest or amusement",
+      "example": "She wore a bizarre outfit that caught everyone's attention.",
+      "synonyms": [
+        "eccentric",
+        "outlandish",
+        "peculiar",
+        "weird",
+        "strange"
+      ]
+    },
+    {
+      "term": "blunt",
+      "type": "adjective",
+      "definition": "not sharp or pointed",
+      "example": "He cut the bread with a blunt knife.",
+      "synonyms": [
+        "dull",
+        "rounded",
+        "not sharp",
+        "blunted",
+        "edgeless"
+      ]
+    },
+    {
+      "term": "blunt",
+      "type": "adjective",
+      "definition": "direct in speech or manner, often rudely",
+      "example": "She is known for her blunt opinions.",
+      "synonyms": [
+        "frank",
+        "candid",
+        "straightforward",
+        "brusque",
+        "undiplomatic"
+      ]
+    },
+    {
+      "term": "blunt",
+      "type": "noun",
+      "definition": "a cigar whose wider end has been cut off",
+      "example": "He lit up a blunt and relaxed on the couch.",
+      "synonyms": [
+        "cigar",
+        "joint",
+        "reefer",
+        "spliff",
+        "cannabis cigarette"
+      ]
+    },
+    {
+      "term": "essential",
+      "type": "noun",
+      "definition": "a basic, fundamental, or necessary part of something",
+      "example": "Water is an essential for life to exist.",
+      "synonyms": [
+        "necessary",
+        "vital",
+        "crucial",
+        "important",
+        "key"
+      ]
+    },
+    {
+      "term": "essential",
+      "type": "adjective",
+      "definition": "absolutely necessary; extremely important",
+      "example": "Sleep is essential for good health.",
+      "synonyms": [
+        "necessary",
+        "vital",
+        "crucial",
+        "important",
+        "indispensable"
+      ]
+    },
+    {
+      "term": "former",
+      "type": "adjective",
+      "definition": "having previously held a particular position or status; ex-",
+      "example": "She is a former colleague of mine.",
+      "synonyms": [
+        "previous",
+        "prior",
+        "past",
+        "ex-",
+        "erstwhile"
+      ]
+    },
+    {
+      "term": "former",
+      "type": "noun",
+      "definition": "a person who previously held a particular position or status",
+      "example": "The former of the company was invited to the event.",
+      "synonyms": [
+        "predecessor",
+        "past holder",
+        "ex-holder",
+        "prior occupant",
+        "previous owner"
+      ]
+    },
+    {
+      "term": "moderate",
+      "type": "adjective",
+      "definition": "average in amount, intensity, quality, or degree",
+      "example": "He showed moderate interest in the proposal.",
+      "synonyms": [
+        "reasonable",
+        "middling",
+        "temperate",
+        "modest",
+        "tolerable"
+      ]
+    },
+    {
+      "term": "moderate",
+      "type": "verb",
+      "definition": "to make or become less extreme, intense, rigorous, or violent",
+      "example": "She tried to moderate her tone during the discussion.",
+      "synonyms": [
+        "temper",
+        "mitigate",
+        "relieve",
+        "lessen",
+        "modulate"
+      ]
+    },
+    {
+      "term": "necessary",
+      "type": "adjective",
+      "definition": "required to be done, achieved, or present; essential",
+      "example": "Sleep is necessary for good health.",
+      "synonyms": [
+        "essential",
+        "required",
+        "needed",
+        "vital",
+        "mandatory"
+      ]
+    },
+    {
+      "term": "necessary",
+      "type": "noun",
+      "definition": "a thing that is required to be done, achieved, or present",
+      "example": "Food, water, and shelter are basic necessities of life.",
+      "synonyms": [
+        "essential",
+        "requirement",
+        "need",
+        "requisite",
+        "essential item"
+      ]
+    },
+    {
+      "term": "particular",
+      "type": "adjective",
+      "definition": "specific or distinct",
+      "example": "She had a particular interest in art history.",
+      "synonyms": [
+        "specific",
+        "distinct",
+        "specific",
+        "specific",
+        "specific"
+      ]
+    },
+    {
+      "term": "particular",
+      "type": "noun",
+      "definition": "a specific item or detail",
+      "example": "He paid attention to every particular of the plan.",
+      "synonyms": [
+        "detail",
+        "specific",
+        "item",
+        "aspect",
+        "element"
+      ]
+    },
+    {
+      "term": "prompt",
+      "type": "noun",
+      "definition": "a suggestion or cue",
+      "example": "She gave me a prompt to start my presentation.",
+      "synonyms": [
+        "cue",
+        "hint",
+        "clue",
+        "signal",
+        "indication"
+      ]
+    },
+    {
+      "term": "prompt",
+      "type": "verb",
+      "definition": "to encourage someone to do something",
+      "example": "The teacher prompted the students to answer the question.",
+      "synonyms": [
+        "encourage",
+        "prod",
+        "urge",
+        "stimulate",
+        "motivate"
+      ]
+    },
+    {
+      "term": "rapid",
+      "type": "adjective",
+      "definition": "happening in a short amount of time; fast",
+      "example": "The rapid growth of technology has revolutionized the way we communicate.",
+      "synonyms": [
+        "quick",
+        "speedy",
+        "swift",
+        "fast",
+        "prompt"
+      ]
+    },
+    {
+      "term": "rapid",
+      "type": "noun",
+      "definition": "a fast-moving body of water, typically in a river",
+      "example": "The kayak enthusiasts navigated through the rapids with skill and agility.",
+      "synonyms": [
+        "whitewater",
+        "cascade",
+        "torrent",
+        "riffle",
+        "current"
+      ]
+    },
+    {
+      "term": "single",
+      "type": "adjective",
+      "definition": "only one in number; not combined with anything else",
+      "example": "He lives in a single room apartment.",
+      "synonyms": [
+        "individual",
+        "sole",
+        "solitary",
+        "unique",
+        "alone"
+      ]
+    },
+    {
+      "term": "single",
+      "type": "noun",
+      "definition": "a record that has one song on each side",
+      "example": "I bought the latest single from my favorite band.",
+      "synonyms": [
+        "record",
+        "song",
+        "track",
+        "release",
+        "disc"
+      ]
+    },
+    {
+      "term": "single",
+      "type": "verb",
+      "definition": "to choose or select something or someone for a specific purpose",
+      "example": "I will single out the best candidate for the job.",
+      "synonyms": [
+        "select",
+        "choose",
+        "pick",
+        "identify",
+        "highlight"
+      ]
+    },
+    {
+      "term": "subtle",
+      "type": "adjective",
+      "definition": "so delicate or precise as to be difficult to analyze or describe",
+      "example": "She made a subtle change to the recipe that greatly improved the flavor.",
+      "synonyms": [
+        "nuanced",
+        "understated",
+        "delicate",
+        "faint",
+        "slight"
+      ]
+    },
+    {
+      "term": "ugly",
+      "type": "adjective",
+      "definition": "unpleasant or unattractive in appearance",
+      "example": "The old abandoned house was surrounded by overgrown weeds and had an ugly façade.",
+      "synonyms": [
+        "unattractive",
+        "hideous",
+        "unsightly",
+        "repulsive",
+        "grotesque"
+      ]
+    },
+    {
+      "term": "whole",
+      "type": "adjective",
+      "definition": "complete; entire; full",
+      "example": "I ate the whole pizza by myself.",
+      "synonyms": [
+        "entire",
+        "complete",
+        "total",
+        "full",
+        "intact"
+      ]
+    },
+    {
+      "term": "whole",
+      "type": "noun",
+      "definition": "all of something, including all its parts",
+      "example": "He couldn't eat the whole of the cake.",
+      "synonyms": [
+        "entirety",
+        "totality",
+        "sum",
+        "aggregate",
+        "entire"
+      ]
+    }
+  ]
+}
